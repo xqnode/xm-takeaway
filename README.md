@@ -56,7 +56,7 @@ Springboot2 + Vue2 + uniapp + MySQL
 <a name="NTeOR"></a>
 
 # 获取方式
-加入知识星球**【项目训练营】**即可<br />
+加入知识星球 **【项目训练营】** 即可获取 **项目脚手架+完整笔记+带敲视频+源码+一对一答疑**<br />
 <img width=400 src="https://img-blog.csdnimg.cn/img_convert/009b4b8b5611260daf6badd9c1ef3ad7.jpeg">
 <br />星球提供的价值：
 
